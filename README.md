@@ -89,7 +89,6 @@ This project presents a detailed **Exploratory Data Analysis (EDA)** on the [NYC
    ```bash
    git clone https://github.com/your-username/nyc-taxi-eda.git
    cd nyc-taxi-eda
-````
 
 2. Install dependencies:
 
@@ -103,19 +102,16 @@ This project presents a detailed **Exploratory Data Analysis (EDA)** on the [NYC
    jupyter notebook EDA.ipynb
    ```
 
----
 
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
----
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
 ## 📬 Contact
 
