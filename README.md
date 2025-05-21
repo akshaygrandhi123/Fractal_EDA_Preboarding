@@ -1,6 +1,6 @@
 # 🗽 NYC Taxi Trip Duration - Exploratory Data Analysis (EDA)
 
-This project presents a detailed **Exploratory Data Analysis (EDA)** on the [NYC Taxi Trip Duration dataset]([https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview](https://github.com/akshaygrandhi123/Fractal_EDA_Preboarding/blob/main/nyc_taxi_trip_duration.csv)). The analysis was performed in Python using a Jupyter Notebook and includes comprehensive visualizations, feature engineering, and insights that could assist in downstream tasks such as machine learning model building or business analysis.
+This project presents a detailed **Exploratory Data Analysis (EDA)** on the [NYC Taxi Trip Duration dataset](https://github.com/akshaygrandhi123/Fractal_EDA_Preboarding/blob/main/nyc_taxi_trip_duration.csv). The analysis was performed in Python using a Jupyter Notebook and includes comprehensive visualizations, feature engineering, and insights that could assist in downstream tasks such as machine learning model building or business analysis.
 
 ---
 
